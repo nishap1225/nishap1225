@@ -1,5 +1,4 @@
-Hi! My name is Nisha Prabhakar. I’m a sophomore at UC Berkeley, studying Electrical Engineering and Computer Science. I’m passionate about using computer science to drive the world forward in a positive way. I love exploring computer science, and learning new ways in which I can solve problems and create tools. Some of my hobbies are reading, biking, and playing the veena.
-- Pronouns: she/her/hers
+Hi! My name is Nisha Prabhakar. I’m a rising junior at UC Berkeley, studying Electrical Engineering and Computer Science. I’m passionate about using computer science to drive the world forward in a positive way. I love exploring computer science, and learning new ways in which I can solve problems and create tools. Some of my hobbies are reading, biking, and playing the veena.
 - How to reach me: nisha.p@berkeley.edu
 
 
